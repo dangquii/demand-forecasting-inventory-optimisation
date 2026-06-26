@@ -21,5 +21,11 @@ Python, SQL/SQLite, Prophet, statsmodels, LightGBM, Excel + Power Query, Power B
 - [ ] Phase 6: Power BI Dashboard
 - [ ] Phase 7: Executive Report + README Polish
 
+## 📓 Notebooks
+
+| Notebook | Open in Colab |
+|----------|--------------|
+| Phase 1: Data Foundation | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dangquii/demand-forecasting-inventory-optimisation/blob/main/notebooks/01_data_foundation.ipynb) |
+
 ## Author
 Will Dang | [LinkedIn](https://linkedin.com/in/phuquidang) | [GitHub](https://github.com/dangquii)
